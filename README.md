@@ -22,7 +22,7 @@ $ CURL -X http://localhost:3000/test
  - [Express](https://github.com/strongloop/express)
  - [Seriate](https://github.com/LeanKit-Labs/seriate)
 
-## Note
+### Notes
 
 This is a proof of concept / dev build - not for production. It needs work.
 ```schema.js``` contains some SQL queries setup with seriate for you to use for different routes.
