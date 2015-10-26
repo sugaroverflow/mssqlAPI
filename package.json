@@ -1,0 +1,15 @@
+{
+  "name": "seriateproject",
+  "version": "1.0.0",
+  "description": "Using seriate to connect to a SQL database + express to setup an API",
+  "main": "app.js",
+  "scripts": {
+    "test": " "
+  },
+  "author": "Fatima Khalid @sugaroverflow",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.3",
+    "seriate": "^0.5.3"
+  }
+}
