@@ -24,5 +24,7 @@ $ CURL -X http://localhost:3000/test
 
 ### Notes
 
-This is a proof of concept / dev build - not for production. It needs work.
+This was a proof of concept for using a mssql db with express. 
+I wasn't able to use [node mssql](https://www.npmjs.com/package/mssql) easily so I built this.
+Still needs work / not ready for production.
 ```schema.js``` contains some SQL queries setup with seriate for you to use for different routes.
