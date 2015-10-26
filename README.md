@@ -1,12 +1,12 @@
 > NodeJS  REST API  example using MSSQL, Express, and Seriate
 
-# MSSQLapi
+# mssqlAPI
 
 Instructions:
 
 ```
-$ git clone https://github.com/SugarOverflow/MSSQLapi.git
-$ cd MSSQLapi
+$ git clone https://github.com/SugarOverflow/mssqlAPI.git
+$ cd mssqlAPI
 $ npm install
 $ node app.js
 ```
